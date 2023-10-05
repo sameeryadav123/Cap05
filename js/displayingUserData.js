@@ -1,0 +1,1 @@
+document.getElementById(`fetchUserBtn`).addEventListener
